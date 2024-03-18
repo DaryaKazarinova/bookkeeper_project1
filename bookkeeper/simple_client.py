@@ -1,5 +1,6 @@
 """
 Простой тестовый скрипт для терминала
+changing
 """
 
 from bookkeeper.models.category import Category
